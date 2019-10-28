@@ -1,0 +1,15 @@
+<DOCTYPE=html>
+<html lang= "en" dir="ltr">
+<meta charset = " utf-8">
+<title></title>
+</head>
+</body>
+</script>
+ var a = prompt( "Give  a number , any number (1/2)");
+ var b = prompt( "Give  a number , any number (1/2)");
+ var product = a * b;
+ console.log(a + " x " + b + "=" + product);
+ document.write(a + " x " + b + "=" + product);
+ </script>
+ </body>
+ </html>
